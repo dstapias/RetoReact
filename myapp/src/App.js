@@ -6,7 +6,7 @@ import SignUp from './components/SignUp';
 import Timer from './components/Timer';
 import Password from './components/Password';
 
-
+//prueba commit
 function App() {
   return (
     <div>
